@@ -1,0 +1,4 @@
+1 Banana 3.44
+2 Mamao  10.97
+3 Feijao 20.88
+4 Batata 2.99
